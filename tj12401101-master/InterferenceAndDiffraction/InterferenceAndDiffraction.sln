@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointLighting", "PointLighting\PointLighting.csproj", "{42459BFE-01F4-4FE0-BD87-95C6CB751E7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoungsDoubleSlitInterference", "YoungsDoubleSlitInterference\YoungsDoubleSlitInterference.csproj", "{EC9146F4-EADC-484D-9249-0F82349C913C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FraunhoferDiffractionThroughMultipleSlits", "FraunhoferDiffractionThroughMultipleSlits\FraunhoferDiffractionThroughMultipleSlits.csproj", "{7FE9A1E8-D08F-4B8B-BA9C-9BC3C83684A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointLightingSample1", "PointLightingSample1\PointLightingSample1.csproj", "{70067E95-6E8F-48E9-9794-8A78ABB577FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42459BFE-01F4-4FE0-BD87-95C6CB751E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42459BFE-01F4-4FE0-BD87-95C6CB751E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42459BFE-01F4-4FE0-BD87-95C6CB751E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42459BFE-01F4-4FE0-BD87-95C6CB751E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9146F4-EADC-484D-9249-0F82349C913C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9146F4-EADC-484D-9249-0F82349C913C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9146F4-EADC-484D-9249-0F82349C913C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9146F4-EADC-484D-9249-0F82349C913C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE9A1E8-D08F-4B8B-BA9C-9BC3C83684A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE9A1E8-D08F-4B8B-BA9C-9BC3C83684A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE9A1E8-D08F-4B8B-BA9C-9BC3C83684A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE9A1E8-D08F-4B8B-BA9C-9BC3C83684A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70067E95-6E8F-48E9-9794-8A78ABB577FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70067E95-6E8F-48E9-9794-8A78ABB577FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70067E95-6E8F-48E9-9794-8A78ABB577FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70067E95-6E8F-48E9-9794-8A78ABB577FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC11AF63-6D64-4350-A302-EA6C5A26CBF5}
+	EndGlobalSection
+EndGlobal

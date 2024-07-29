@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>yueyinqiu5990</Authors>
+    <Company>yueyinqiu5990</Company>
+    <PackageProjectUrl>https://gitee.com/yueyinqiu5990/tj12401101.git</PackageProjectUrl>
+    <RepositoryUrl>https://gitee.com/yueyinqiu5990/tj12401101.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
